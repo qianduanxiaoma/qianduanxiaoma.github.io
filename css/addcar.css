@@ -1,0 +1,44 @@
+body{background-color: #f1f5f8; height:auto; overflow: auto;}
+.addcar-cxdq,.addcar-car,.addcar-fdjh{margin-top: 10px; border-top:1px solid #d6d9eb; border-bottom: 1px solid #d6d9eb; background-color: #fff; padding:10px; position: relative;}
+.addcar-cxdql,.addcar-carlxl,.addcar-carhml,.addcar-fdjhl{width:80px; font-size: 16px; color:#494f55; height:33px; line-height: 33px; padding-right:10px; position: absolute; top:10px; left:10px;}
+.addcar-cxdqr{display: block; width:100%; padding-left:80px; position: relative; height:33px; line-height: 33px;}
+.addcar-cxdqrl{display: block; width:100%; padding-right:95px; font-size: 16px; color:#8b9bab;}
+.addcar-cxdqrc{position: absolute; right:0; top:7px;}
+.addcar-cxdqrc span{float:left; font-size: 16px; color:#8b9bab; line-height: 20px; padding-right:5px;}
+.addcar-cxdqrc img{float:left; width:9px; padding-top: 2px;}
+.addcar-carlx,.addcar-carhm{border-bottom: 1px solid #d6d9eb; background-color: #fff; padding:10px; position: relative;}
+.addcar-carlxr,.addcar-carhmr,.addcar-fdjhr{width:100%; height:33px; padding-left: 80px; position: relative;}
+.addcar-carlxr li{float: left; padding-right:10px;}
+.addcar-carlxr li:last-child{padding-right:0;}
+.addcar-carlxti{display: block; width:84px;}
+.addcar-carlxl,.addcar-carhml{ line-height: 33px;}
+.addcar-car{padding:0; border-bottom: 0;}
+.addcar-carhmr{position: relative;}
+.addcar-carhmrl{position: absolute; top:0; left:80px; width:80px; padding-right:10px; z-index:10;}
+.addcar-carhmrls{width:60px; height:33px; line-height: 32px; font-size: 16px; color:#8b9bab; position: relative;}
+.addcar-carhmrls input{width:60px; padding:0 10px; height:33px; line-height: 32px; font-size: 16px; color:#8b9bab; border:0; border:1px solid #8b9bab; border-radius: 5px;}
+.addcar-carhmrls img{position: absolute; right:6px; top:0; width:12px; padding-top:14px;}
+.addcar-carhmrr{display: block; width:100%; padding-left: 70px;}
+.addcar-carhmrr input,.addcar-fdjhr input{width:100%; height:33px; line-height: 33px; border:0; font-size: 16px; color:#94a3b1;}
+.addcar-fdjhrhelp{width:22px; position: absolute; top:6px; right:0;}
+.addcar-fdjhr input{padding-right:30px;}
+.addcar-bzm input{padding-right: 0;}
+.addcar-cx .addcar-cxdqrl{padding-right: 20px;}
+.addcar-bzm .addcar-fdjhl{letter-spacing: 7px;}
+
+.addcar-gray{width:100%; height:100%; position: fixed; top:0; left:0; z-index:2; display: none;}
+
+.addcar-yuedu{padding:3px 10px 5px; text-align: center;}
+.addcar-yuedu img{display: inline-block; vertical-align: middle; width:15px;}
+.addcar-yuedu span{font-size: 14px; color:#494f55; line-height: 15px; padding-left: 5px;}
+.addcar-yuedu a{font-size: 14px; color:#4c80d6; line-height: 15px;}
+
+.addcar-ty{width:100%; padding-bottom: 10px;}
+.addcar-ty a{display: block; width:100%; height:50px; line-height: 50px; background-color: #fff; font-size: 18px; color:#2cc5b4; text-align: center;}
+
+.addcar-zhuyi{padding:0 10px 10px; position: relative;}
+.addcar-zhuyil{position: absolute; top:1px; left:10px;}
+.addcar-zhuyil img{display: block; width:15px;}
+.addcar-zhuyir{display: block; width:100%; padding-left: 20px; font-size: 14px; color:#494f55; line-height: 20px;}
+.addcar-zhuyir a{font-size: 14px; color:#4c80d6; line-height: 20px;}
+

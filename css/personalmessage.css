@@ -1,0 +1,9 @@
+body{background-color: #f1f5f8;}
+.personalmessage-con{background-color: #fff; margin-top:12px;}
+.personalmessage-conl{padding:10px; border-bottom: 1px solid #d6d9eb; position:relative;}
+.personalmessage-conll{position: absolute; top:50%; margin-top:-8px; font-size: 16px; color:#494f55; line-height: 16px; left:10px;}
+.personalmessage-conlr{display: block; width:100%; padding:0 20px 0 30px; background:url(../images/personalcenter-arrh.png) no-repeat right center; -webkit-background-size: 8px; background-size: 8px; overflow: hidden; text-align: right; font-size: 14px; color:#8b9bab; line-height: 16px; min-height:40px; line-height: 40px;}
+.personalmessage-conlr img{width:50px; height:50px; border-radius: 50%; overflow: hidden; float:right;}
+
+
+

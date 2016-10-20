@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* public CSS Document v2.0
+*/
+/*=======字体定义=======*/
+body{margin:0px; padding:0px;font:16px/20px;font-family:"Microsoft YaHei",tahoma,arial,'Hiragino Sans GB',sans-serif; color:#333;}
+body{-webkit-text-size-adjust: 100%!important;}
+*{-webkit-tap-highlight-color:transparent;box-sizing:border-box;-moz-box-sizing:border-box; -webkit-box-sizing:border-box; -o-box-sizing:border-box; -ms-box-sizing:border-box;}
+/*去掉半透明灰色遮罩*/
+
+ul,li,dt,dd,dl,h1,h2,h3,h4,h5,h6,p{padding:0; margin:0; list-style:none; font-weight: normal; color: #333;}
+p{ text-align:justify; text-justify:distribute;}
+textarea { resize:none; } /* 禁用了文本的拖拉，尤其在谷歌下 */
+a{text-decoration:none; background-color: transparent;color: #333;}
+em,i{font-style: normal;}
+img,object,video{max-width: 100%;}
+a:active,a:hover{outline: 0;}
+input,textarea,input[type="text"]{background-color:rgba(255,255,255,1);display: block;border:0;outline: 0;}
+select{background:rgba(255,255,255,0);}
+table {border-spacing: 0; border-collapse: collapse; border:0;}
+td,th {padding: 0;}
+
+
+
+

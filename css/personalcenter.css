@@ -1,0 +1,19 @@
+body{background-color: #f1f5f8;}
+.personalcenter-banner img{display: block; width:100%;}
+.personalcenter-banner{position: relative; margin-bottom: 12px;}
+.personalcenter-bcon{width:100%; position: absolute; top:50%; margin-top:-25px; left:0; padding:0 10px 0 15px;}
+.personalcenter-bcon a{display: block; width:100%;}
+.personalcenter-bconl{position: absolute; top:0; left:15px;}
+.personalcenter-bconl img{width:50px; border-radius: 50%; border:1px solid #9ee3db;}
+.personalcenter-bconr{position: absolute; top:15px; right:10px;}
+.personalcenter-bconr img{width:12px;}
+.personalcenter-bconc{width:100%; display: block; padding:0 22px 0 60px;}
+.personalcenter-bconc h3{font-size: 18px; color:#fff; line-height: 30px;}
+.personalcenter-bconc p{font-size: 14px; color:#fff; line-height: 20px;}
+
+.personalcenter-con{background-color: #fff;}
+.personalcenter-conl{padding:10px; border-bottom: 1px solid #d6d9eb; position: relative;}
+.personalcenter-conll{position: absolute; top:10px; left:10px;}
+.personalcenter-conll img{width:30px;}
+.personalcenter-conlr{display: block; width:100%; padding:0 20px 0 40px; font-size: 16px; color:#494f55; line-height: 30px; background: url(../images/personalcenter-arrh.png) no-repeat right center; -webkit-background-size: 8px; background-size: 8px;}
+

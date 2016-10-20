@@ -1,0 +1,12 @@
+body{background-color: #f1f5f8;}
+.aboutus-logo{padding:30px 0 40px;}
+.aboutus-logoimg{display: block; width:90px; margin:0 auto;}
+.aboutus-logo h1{font-size: 18px; color:#38c2aa; font-weight: bold; text-align: center; line-height: 20px; padding:5px 0 10px; margin:0;}
+.aboutus-logo p{font-size: 18px; color:#8b9bab; line-height: 20px; text-align: center;}
+.aboutus-my{padding:20px 10px; background-color: #fff; border-top:1px solid #d6d9eb; border-bottom: 1px solid #d6d9eb;}
+.aboutus-my h3{font-size: 16px; color:#494f55; line-height: 25px;}
+.aboutus-my p{font-size: 14px; color:#8b9bab; line-height: 20px; text-align: right;}
+
+.aboutus-link{margin:12px 0; background-color: #fff; border-top:1px solid #d6d9eb;}
+.aboutus-linkl{padding:15px 10px; border-bottom: 1px solid #d6d9eb;}
+.aboutus-linkl a{display: block; width:100%; font-size: 16px; color:#494f55; line-height: 20px; background: url(../images/addcar-arrr.png) no-repeat right center; -webkit-background-size: 8px; background-size: 8px; padding-right:20px;}

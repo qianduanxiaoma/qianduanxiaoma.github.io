@@ -1,0 +1,29 @@
+body{background-color: #f1f5f8;}
+.illegallist-top{background-color: #404753; padding:25px 15px 10px; overflow: hidden; width:100%;}
+.illegallisttl,.illegallisttr{float:left; width:25%; text-align: center; padding-top:10px;}
+.illegallisttl img,.illegallisttr img{display: block; margin:0 auto; width:34px;}
+.illegallisttl p,.illegallisttr p{font-size: 12px; color:#fff; line-height: 20px; padding-top:5px; text-align: center;}
+.illegallisttc{float:left; width:50%; position: relative;}
+.illegallisttc img{display: block; width:144px; margin:0 auto;}
+.illegallisttc-word{position: absolute; width:100%; text-align: center; top:13px; font-size: 20px; color:#fff;}
+
+.illegallist-con{background-color: #fff;}
+.illegallistc-tabt{overflow: hidden; border-bottom: 1px solid #d6d9eb;}
+.illegallistc-tabt li{float:left; width:50%; text-align: center; padding:10px 0; font-size: 16px; color:#494f55;}
+.illegallistc-tabt .illegallistctt-cur{border-bottom: 4px solid #2cc5b4;}
+.illegallistc-tabcl{padding:10px 15px; border-bottom: 1px solid #d6d9eb;}
+.illegallistc-tclt{padding:0 0 10px; overflow: hidden; border-bottom: 1px dashed #d6d9eb;}
+.illegallistc-tcltllv span,.illegallistc-tcltlhui span{float:left; padding:5px 8px; background-color: #2cc5b4; font-size: 14px; color:#fff; line-height: 16px;}
+.illegallistc-tcltlhui span{background-color: #c0c6cf;}
+.illegallistc-tcltllv img,.illegallistc-tcltlhui img{float:left; height:26px;}
+.illegallistctcltr{float:right;}
+.illegallistctcltr span{padding-left: 5px; font-size: 14px; color:#8b9bab; line-height: 26px;}
+.illegallistc-tclcn{overflow: hidden; padding-top:10px;}
+.illegallistc-tclcnl{float:left; width:62%; font-size: 16px; color:#323232;}
+.illegallistc-tclcnr{float:left; width:38%; text-align: right; font-size: 14px; color:#8b9bab;}
+.illegallistc-tclcnr span{color:#ff5255;}
+.illegallistc-tclcd{padding-top: 10px; font-size: 14px; color:#8b9bab;}
+.illegallistc-tclcb{overflow: hidden; padding-top:10px;}
+.illegallistc-tclcbl{font-size: 14px; color:#8b9bab; float:left; width:100%;}
+.illegallistc-tclcbl span{color:#404753;}
+.illegallistc-tabc li:last-child{display: none;}

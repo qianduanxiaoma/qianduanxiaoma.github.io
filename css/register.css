@@ -1,0 +1,21 @@
+body{background-color: #f1f5f8;}
+.register{padding-top:10px;}
+.register-con{background-color: #fff; border-top: 1px solid #d6d9eb; border-bottom: 1px solid #d6d9eb; padding:10px;}
+.registerc-phone,.registerc-mm,.registerc-qrmm,.registerc-yzm{padding-bottom: 10px;}
+.registerc-phone input,.registerc-mm input,.registerc-qrmm input,.registerc-yzml input{width: 100%; height:48px; line-height: 48px; padding-left: 10px; background-color: #f1f5f8; border:1px solid #d6d9eb; border-radius: 5px; font-size: 16px; color:#494f55;}
+-ms-input-placeholder{color:#c6cbd1;}
+::-webkit-input-placeholder{color:#c6cbd1;}
+.registerc-yzm{overflow: hidden;}
+.registerc-yzml{float:left; width:68%; padding-right:10px;}
+.registerc-yzmr{float:left; width:32%;}
+.registerc-yzmr button{border:0; width:100%; height:48px; line-height: 48px; text-align: center; background-color: #95e2d9; color:#fff; font-size: 16px; border-radius: 5px;}
+.registerc-btn{padding:10px 0;}
+.registerc-btn a{display: block; width:100%; height:48px; line-height: 48px; text-align: center; font-size: 18px; color:#2cc5b4; border:1px solid #2cc5b4; border-radius: 5px; background-color: #fff;}
+
+
+
+
+
+
+
+

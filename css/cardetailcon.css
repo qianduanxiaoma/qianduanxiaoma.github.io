@@ -1,0 +1,23 @@
+body{background-color: #f1f5f8;}
+.cardetailcon-top{background-color: #fff; overflow: hidden;}
+.cardetailcon-topl{float:left; width:80%; padding:10px; border-right:1px solid #d6d9eb;}
+.cardetailcon-topr{float:left; width:20%;}
+.cardetailcon-toplt{padding-bottom: 3px;}
+.cardetailcon-toplt img{float:left; width:13px; padding-top:5px;}
+.cardetailcon-toplt span,.cardetailcon-toplb span{padding-left: 10px; font-size: 14px; color:#8b9bab; line-height: 20px;}
+.cardetailcon-toplb img{float:left; width:14px; padding-top:5px;}
+.cardetailcon-topr{text-align: center; height:100%;}
+.cardetailcon-topr img{width:30px; vertical-align: middle; padding-top: 18px;}
+
+.cardetailcon-map{width:100%; height:200px; overflow: hidden; position: relative; border-top:1px solid #d6d9eb; border-bottom:1px solid #d6d9eb;}
+.cardetailcon-mapimg{display: block; width:100%; height:100%;}
+.cardetailcon-mapd{position: absolute; top:20px; left:40%;}
+.cardetailcon-mapd img{display: block; margin:0 auto 5px;}
+.cardetailcon-mapd span{position: absolute; top:5px; left:0; width:100%; text-align: center; font-size: 16px; color:#8b9bab;}
+
+.cardetailcon-pingj{border-bottom:1px solid #d6d9eb; padding:10px; overflow: hidden; background-color: #fff;}
+.cardetailcon-pingjl{float:left;}
+.cardetailcon-pingjl img{float:left; width:17px; padding:1px 3px 0 0;}
+.cardetailcon-pingjl span{float:left; font-size: 14px; color:#8b9bab; line-height: 16px; padding-left: 5px;}
+.cardetailcon-pingjr{float:right; font-size: 14px; color:#8b9bab; line-height: 16px;}
+

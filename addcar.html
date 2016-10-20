@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<meta content="width=device-width,initial-scale=1,minimum-scale=1,
+	maximum-scale=1,user-scalable=no" name="viewport" id="viewport"/>
+	<link rel="stylesheet" type="text/css" href="css/sm.min.css">
+	<link rel="stylesheet" type="text/css" href="css/sm-qbd.css">
+	<link rel="stylesheet" type="text/css" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/Normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/addcar.css">
+</head>
+<body>
+	<section class="addcar">
+		<div class="addcar-cxdq">
+			<div class="addcar-cxdql">查询地区</div>
+			<div class="addcar-cxdqr">
+				<div class="addcar-cxdqrl">北京</div>
+				<div class="addcar-cxdqrc"><span>可选多城市</span><img src="images/addcar-arrr.png" alt=""></div>
+			</div>
+		</div>
+		<div class="addcar-car">
+			<div class="addcar-carlx">
+				<div class="addcar-carlxl">号牌类型</div>
+				<div class="addcar-carlxr">
+					<ul>
+						<li>
+							<img class="addcar-carlxti addcar-carlxti1" src="images/addcar-smally.png" alt="">
+						</li>
+						<li>
+							<img class="addcar-carlxti addcar-carlxti2" src="images/addcar-bign.png" alt="">
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="addcar-carhm">
+				<div class="addcar-carhml">车牌号码</div>
+				<div class="addcar-carhmr">
+					<div class="addcar-carhmrl">
+						<div class="addcar-carhmrls">
+							<input type="text" readonly="true" id="picker" placeholder="京"><img src="images/addcar-arrb.png" alt="">
+						</div>
+					</div>
+					<div class="addcar-carhmrr"><input type="text" placeholder="请输入车牌号码"></div>
+				</div>
+			</div>
+		</div>
+		<div class="addcar-fdjh">
+			<div class="addcar-fdjhl">发动机号</div>
+			<div class="addcar-fdjhr">
+				<input type="text" placeholder="请输入发动机号码">
+				<img class="addcar-fdjhrhelp" src="images/addcar-help.png" alt="">
+			</div>
+		</div>
+		<div class="addcar-cxdq addcar-cx">
+			<div class="addcar-cxdql">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;型</div>
+			<div class="addcar-cxdqr">
+				<div class="addcar-cxdqrl">北京</div>
+				<div class="addcar-cxdqrc"><img src="images/addcar-arrr.png" alt=""></div>
+			</div>
+		</div>
+		<div class="addcar-fdjh addcar-bzm">
+			<div class="addcar-fdjhl">备注名</div>
+			<div class="addcar-fdjhr">
+				<input type="text" placeholder="请输入备注名">
+			</div>
+		</div>
+		<div class="addcar-yuedu"><img src="images/addcar-choose.png" alt=""><span>已阅读并同意《<a href="">用户协议</a>》</span></div>
+		<div class="addcar-ty"><a href="javascript:;">提交</a></div>
+		<div class="addcar-zhuyi">
+			<div class="addcar-zhuyil"><img src="images/addcar-zhuyi.png" alt=""></div>
+			<div class="addcar-zhuyir">以上车辆信息只用于违章查询，我们将严格保密，请您放心填写，若有疑问可以查看“<a href="javascript:;">常见问题</a>”</div>
+		</div>
+		<div class="addcar-gray"></div>
+	</section>
+	<script type="text/javascript" src="js/zepto.min.js"></script>
+	<script type="text/javascript" src="js/sm-qbd-min.js"></script>
+	<script type="text/javascript" src="js/addcar.js"></script>
+	<script>
+
+$("#picker").picker({
+  toolbarTemplate: '<header class="bar bar-nav" style="display:none;"></header>',
+  cols: [
+    {
+      textAlign: 'center',
+      values: ['京', '津', '冀', '晋', '鲁','京', '津', '冀', '晋', '鲁','京', '津', '冀', '晋', '鲁']
+    }
+  ]
+});
+
+
+</script>
+</body>
+</html>

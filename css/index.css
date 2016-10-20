@@ -1,0 +1,281 @@
+body {
+    background-color: #f1f5f8;
+}
+
+.index-top, .index-link {
+    background-color: #fff;
+    border-bottom: 1px solid #d6d9eb;
+    margin-bottom: 10px;
+}
+
+.index-banner {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.indexb-bg {
+    display: block;
+    width: 100%;
+}
+
+.indexb-con {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    overflow: hidden;
+    padding: 10px;
+    width: 100%;
+}
+
+.indexbcl {
+    float: left;
+}
+
+.indexbcr {
+    float: right;
+    padding-top: 8px;
+}
+
+.indexbcl span {
+    float: left;
+    font-size: 16px;
+    color: #fff;
+    line-height: 30px;
+    padding-top: 3px;
+}
+
+.indexbcl .indexbcl-big {
+    font-size: 30px;
+    padding: 0 5px 0 0;
+}
+
+.indexbcr img {
+    float: left;
+    width: 12px;
+    padding-top: 2px;
+}
+
+.indexbcr span {
+    font-size: 16px;
+    padding-left: 5px;
+    color: #fff;
+}
+
+.index-tcon {
+    overflow: hidden;
+    padding: 10px;
+}
+
+.indextc-date {
+    float: left;
+}
+
+.indextc-sy {
+    float: right;
+}
+
+.indextc-date img {
+    float: left;
+    width: 17px;
+    padding-top: 2px;
+}
+
+.indextc-date span {
+    font-size: 16px;
+    color: #8b9bab;
+    line-height: 16px;
+    padding-left: 5px;
+}
+
+.indextc-sy img {
+    float: left;
+    width: 17px;
+}
+
+.indextc-sy span {
+    float: left;
+    font-size: 16px;
+    color: #06c1ae;
+    padding-left: 5px;
+}
+
+.indexl-con {
+    padding: 10px 0;
+    overflow: hidden;
+    border-bottom: 1px solid #d6d9eb;
+}
+
+.indexl-con li {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.indexl-coni {
+    display: inline-block;
+}
+
+.indexl-coni a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.indexl-coni img {
+    display: block;
+    width: 40px;
+    margin: 0 auto;
+}
+
+.indexl-coni p {
+    font-size: 14px;
+    color: #494f55;
+    line-height: 20px;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.indexld-con table {
+    width: 100%;
+}
+
+.indexld-con td {
+    padding: 5px 10px;
+    border-bottom: 1px solid #d6d9eb;
+    border-right: 1px solid #d6d9eb;
+}
+
+.indexld-con td:last-child {
+    border-right: 0;
+}
+
+.indexld-con p {
+    font-size: 14px;
+    color: #8b9bab;
+    line-height: 20px;
+    text-align: center;
+}
+
+.indexld-con .indexld-red {
+    color: #ff5255;
+    font-size: 16px;
+}
+
+.indexld-con .indexld-chep {
+    font-size: 16px;
+    color: #494f55;
+    border-bottom: 1px solid #d6d9eb;
+}
+
+.indexld-btn a {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.indexld-btni {
+    display: inline-block;
+}
+
+.indexld-btni img {
+    float: left;
+    width: 22px;
+    padding-top: 4px;
+}
+
+.indexld-btni span {
+    font-size: 16px;
+    color: #8b9bab;
+    line-height: 20px;
+    padding-left: 5px;
+}
+
+.index-map {
+    background-color: #fff;
+    margin-bottom: 59px;
+}
+
+.indextab-title {
+    overflow: hidden;
+    padding: 5px 10px;
+}
+
+.indextabtl {
+    float: left;
+}
+
+.indextabtl img {
+    float: left;
+    width: 12px;
+    padding-top: 4px;
+}
+
+.indextabtl span {
+    font-size: 14px;
+    color: #494f55;
+    line-height: 16px;
+    padding-left: 5px;
+}
+
+.indextabtr {
+    float: right;
+}
+
+.indextabtr img {
+    float: left;
+    width: 15px;
+    padding-top: 3px;
+}
+
+.indextab-map img {
+    display: block;
+    width: 100%;
+}
+
+.index-tab {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    padding: 6px 0;
+}
+
+.index-tab li {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.index-tab a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.index-tabi {
+    display: inline-block;
+}
+
+.index-tabi img {
+    display: block;
+    width: 26px;
+    margin: 0 auto;
+}
+
+.index-tabi span {
+    font-size: 12px;
+    text-align: center;
+    color: #94a3b1;
+    line-height: 15px;
+}
+
+.indextabi-current span {
+    color: #06c1ae;
+}
+
+
+

@@ -1,0 +1,18 @@
+body{background-color: #f1f5f8;}
+.addxscard-js{padding:10px 0; text-align: center; font-size: 14px; color:#8b9bab; line-height: 15px;}
+.addxscard-paiz{padding:10px; border-top:1px solid #d6d9eb; border-bottom:1px solid #d6d9eb; background-color: #fff; margin-bottom: 10px;}
+.addxscard-paiziimg{overflow: hidden;}
+.addxscard-paiziimg img{width:30px;}
+.addxscard-paiziimgl{float:left;}
+.addxscard-paiziimgr{float:right;}
+.addxscard-paiziword{padding:30px 0;}
+.addxscard-paiziwordt{text-align: center; padding-bottom: 10px;}
+.addxscard-paiziwordt span{font-size: 16px; color:#2cc5b4; padding-right: 5px; vertical-align: middle;}
+.addxscard-paiziwordt img{width:18px; vertical-align: middle;}
+.addxscard-paiziwordb p{font-size: 14px; color:#8b9bab; line-height: 22px; text-align: center;}
+.addxscard-btn{padding:10px 0 20px;}
+.addxscard-btn a{display: block; width:100%; height:50px; line-height: 50px; text-align: center; font-size: 18px; color:#2cc5b4; background-color: #fff;}
+
+
+
+
